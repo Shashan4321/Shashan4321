@@ -85,13 +85,6 @@ Every project runs on public or synthetic data, has tests and CI, and reports on
 - **Fabric lakehouse on a live trial:** pipeline run, Direct Lake report screenshots and Capacity Metrics
 - **dbt:** moving the sales star schema to dbt models with tests and docs
 
-### 📊 GitHub activity
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Shashan4321&show_icons=true&hide_border=true&bg_color=00000000&title_color=1F4E79&icon_color=00A3A1&text_color=808080&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashan4321&layout=compact&hide_border=true&bg_color=00000000&title_color=1F4E79&text_color=808080" alt="Top languages">
-</p>
-
 ### 🤝 Let's talk
 
 Open to **Senior Data Analyst, Power BI Developer / BI Architect, Analytics Engineer and GenAI Data Analyst** roles in Gurugram / NCR, Bengaluru, Hyderabad or remote.
