@@ -15,7 +15,7 @@ At **Walitechs Solutions** I architect Microsoft Fabric + Power BI solutions acr
 
 ### 📈 Professional impact
 
-| 4+ yrs | 10+ | 50+ | ~50% | 35% | 0 |
+| 3+ yrs | 10+ | 50+ | ~50% | 35% | 0 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | in data & MIS roles | enterprise Power BI dashboards | stakeholders served | less reporting time | faster SQL / Snowflake queries | records lost in the AX → D365 migration |
 
